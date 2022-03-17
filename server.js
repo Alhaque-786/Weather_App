@@ -82,5 +82,5 @@ app.post('/', function(req, res) {
 
 // We shall set up our port configurations
 app.listen(3000, function() {
-    console.log('Weather app listening on port 5000!');
+    console.log('Weather app listening on port 3000!');
 });
